@@ -1,0 +1,38 @@
+2024-06-12 14:44:45,472 - BasePage.py:[101] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-12 14:44:48,101 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-12 14:44:51,297 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-12 14:45:01,857 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-12 14:45:20,700 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-12 14:45:24,784 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : it2024147@mlvti.ac.in
+2024-06-12 14:45:26,921 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-12 14:45:30,981 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-12 14:45:33,085 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-12 14:45:43,310 - BasePage.py:[34] - [INFO] - Clicking on a Element click_ANDROID_UIAUTOMATOR
+2024-06-12 14:45:46,984 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-12 14:45:49,663 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Philips Shaver S1323/45
+2024-06-12 14:47:29,737 - BasePage.py:[101] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-12 14:47:34,330 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-12 14:47:34,959 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-12 14:47:36,064 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-12 14:47:38,763 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-12 14:47:57,513 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-12 14:48:01,697 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : it2024147@mlvti.ac.in
+2024-06-12 14:48:03,876 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-12 14:48:07,929 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-12 14:48:10,066 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-12 14:48:16,021 - BasePage.py:[34] - [INFO] - Clicking on a Element click_ANDROID_UIAUTOMATOR
+2024-06-12 14:48:20,039 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-12 14:48:21,944 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Philips Shaver S1323/45
+2024-06-12 14:51:11,149 - BasePage.py:[101] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-12 14:51:12,524 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-12 14:51:14,181 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-12 14:51:15,618 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-12 14:51:21,484 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-12 14:51:39,690 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-12 14:51:43,752 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : it2024147@mlvti.ac.in
+2024-06-12 14:51:45,858 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-12 14:51:49,938 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-12 14:51:52,049 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-12 14:51:57,349 - BasePage.py:[34] - [INFO] - Clicking on a Element click_ANDROID_UIAUTOMATOR
+2024-06-12 14:51:59,805 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-12 14:52:02,692 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Philips Shaver S1323/45

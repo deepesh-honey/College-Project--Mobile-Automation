@@ -1,0 +1,140 @@
+2024-06-06 12:37:00,351 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:37:00,352 - BasePage.py:[34] - [INFO] - Clicking on a Element Select English
+2024-06-06 12:50:08,178 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:50:08,179 - BasePage.py:[34] - [INFO] - Clicking on a Element Select English
+2024-06-06 12:51:20,996 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:51:22,429 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 12:53:32,133 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:53:33,855 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 12:54:26,665 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:54:29,265 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 12:55:12,345 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:55:13,448 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 12:55:14,054 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 12:55:25,906 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 12:55:32,593 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 12:55:32,593 - BasePage.py:[65] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 12:55:32,593 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 12:55:32,593 - BasePage.py:[65] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 12:55:32,593 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 12:58:19,445 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 12:58:20,314 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 12:58:20,883 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 12:58:31,202 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 12:58:39,002 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 12:58:39,002 - BasePage.py:[65] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 12:58:39,002 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 12:58:39,002 - BasePage.py:[65] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 12:58:39,002 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 13:15:28,629 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:15:30,550 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:15:31,472 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:15:41,860 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:15:49,368 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:22:53,287 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:22:55,908 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:22:56,504 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:23:09,039 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:23:15,168 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:32:23,296 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:32:26,116 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:32:26,699 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:32:37,251 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:32:44,461 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:32:47,723 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 13:32:47,723 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 13:32:47,829 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 13:32:47,829 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 13:48:55,305 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:48:57,725 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:48:57,831 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:49:08,527 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:49:14,318 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:49:17,425 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 13:49:19,427 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 13:49:21,493 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 13:49:23,495 - BasePage.py:[34] - [INFO] - Clicking on a Element android.widget.Button
+2024-06-06 13:50:56,881 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:50:58,479 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:50:58,582 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:50:59,541 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-06 13:51:03,716 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:51:11,621 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:51:15,061 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 13:51:15,216 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:51:15,414 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 13:51:15,533 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:52:06,222 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:52:07,251 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:52:07,866 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:52:08,797 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-06 13:52:11,005 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:52:19,267 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:52:22,027 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 13:52:22,168 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:52:22,414 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 13:52:22,586 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:52:52,924 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:52:54,020 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:52:54,618 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:53:15,304 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:53:20,415 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:53:23,193 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 13:53:23,317 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:53:23,528 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 13:53:23,667 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:54:13,263 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:54:14,537 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:54:15,116 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:54:25,501 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:54:31,650 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:54:54,591 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 13:54:56,468 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 13:54:57,093 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 13:55:07,872 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 13:55:14,233 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 13:55:18,013 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 13:55:20,100 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:55:22,259 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 13:55:24,350 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 13:55:30,298 - BasePage.py:[34] - [INFO] - Clicking on a Element click_ANDROID_UIAUTOMATOR
+2024-06-06 22:10:24,699 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 22:10:28,924 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 22:10:31,471 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 22:10:37,383 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-06 22:10:40,221 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 22:10:50,590 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 22:10:55,621 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 22:10:57,796 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 22:11:00,084 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 22:11:02,249 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 22:11:52,422 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 22:11:54,411 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 22:11:56,131 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 22:11:58,140 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-06 22:12:01,022 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 22:12:10,923 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 22:12:15,269 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 22:12:17,414 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 22:12:19,701 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 22:12:21,817 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 22:12:27,886 - BasePage.py:[34] - [INFO] - Clicking on a Element click_ANDROID_UIAUTOMATOR
+2024-06-06 22:12:31,500 - BasePage.py:[102] - [INFO] - Clicking on a Element search_field_ID
+2024-06-06 22:12:59,961 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-06 22:13:00,976 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-06 22:13:01,882 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-06 22:13:04,738 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-06 22:13:08,483 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR
+2024-06-06 22:13:16,788 - BasePage.py:[34] - [INFO] - Clicking on a Element signin_ACCESSIBILITY_ID
+2024-06-06 22:13:20,658 - BasePage.py:[68] - [INFO] - Clicking on a Element email_CLASS_NAMEentered the value as : deepeshsony2016@gmail.com
+2024-06-06 22:13:22,785 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 22:13:25,115 - BasePage.py:[68] - [INFO] - Clicking on a Element pass_CLASS_NAMEentered the value as : Shreeji@88
+2024-06-06 22:13:27,221 - BasePage.py:[34] - [INFO] - Clicking on a Element continue_btn_CLASS_NAME
+2024-06-06 22:13:33,800 - BasePage.py:[34] - [INFO] - Clicking on a Element click_ANDROID_UIAUTOMATOR
+2024-06-06 22:13:36,131 - BasePage.py:[102] - [INFO] - Clicking on a Element search_field_ID
+2024-06-06 22:13:39,781 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Philips Shaver S1323/45
+2024-06-06 22:14:00,403 - BasePage.py:[34] - [INFO] - Clicking on a Element navigateCart
+2024-06-06 22:14:00,850 - BasePage.py:[34] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-06 22:14:10,417 - BasePage.py:[34] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-06 22:14:13,833 - BasePage.py:[34] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-06 22:14:18,288 - BasePage.py:[34] - [INFO] - Clicking on a Element continuePayment_XPATH

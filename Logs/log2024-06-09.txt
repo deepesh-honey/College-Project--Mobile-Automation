@@ -1,0 +1,9 @@
+2024-06-09 13:53:19,088 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-09 13:53:20,949 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-09 13:53:21,777 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-09 13:53:23,500 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-09 13:58:47,748 - BasePage.py:[34] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-09 13:58:50,022 - BasePage.py:[34] - [INFO] - Clicking on a Element select_language_ACCESSIBILITY_ID
+2024-06-09 13:58:52,110 - BasePage.py:[34] - [INFO] - Clicking on a Element submit_language_selection_ID
+2024-06-09 13:58:56,035 - BasePage.py:[34] - [INFO] - Clicking on a Element skip_signin_ID
+2024-06-09 13:59:09,299 - BasePage.py:[34] - [INFO] - Clicking on a Element account_ANDROID_UIAUTOMATOR

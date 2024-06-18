@@ -1,0 +1,13 @@
+2024-06-13 22:29:28,107 - BasePage.py:[101] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-13 22:45:19,072 - BasePage.py:[101] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-13 22:45:48,984 - BasePage.py:[101] - [INFO] - Clicking on a Element allow_notification_ID
+2024-06-13 22:46:52,900 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-13 22:46:55,790 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Philips Shaver S1323/45
+2024-06-13 22:47:26,114 - BasePage.py:[34] - [INFO] - Clicking on a Element navigateCart
+2024-06-13 22:47:26,791 - BasePage.py:[34] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-13 22:54:46,503 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-13 22:54:47,241 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Srs
+2024-06-13 22:56:27,523 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-13 22:56:28,358 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Srs
+2024-06-13 22:57:42,891 - BasePage.py:[101] - [INFO] - Clicking on a Element search_field_ID
+2024-06-13 22:57:44,761 - BasePage.py:[68] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Srs

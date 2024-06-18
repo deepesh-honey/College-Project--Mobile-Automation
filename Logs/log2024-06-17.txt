@@ -1,0 +1,107 @@
+2024-06-17 00:55:31,240 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 00:55:33,520 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 00:55:56,955 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 00:56:00,372 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 00:56:04,141 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 00:56:08,076 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 00:56:11,658 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 00:56:17,363 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 00:56:46,148 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 00:56:47,461 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 00:57:26,580 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:04:18,529 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:04:19,947 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:04:46,754 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:04:50,187 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:04:53,969 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:04:58,072 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:05:01,655 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:05:06,236 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 01:14:53,028 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:14:53,863 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:15:19,038 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:16:12,674 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:16:15,164 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:16:40,579 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:16:44,382 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:16:47,879 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:16:51,655 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:16:55,566 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:17:00,636 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 01:21:22,823 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:21:24,185 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:21:49,689 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:21:53,008 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:21:56,654 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:22:00,669 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:22:04,207 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:23:21,596 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:23:25,005 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:23:49,517 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:23:52,771 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:23:56,136 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:24:00,046 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:24:03,522 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:28:19,925 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:28:22,694 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:28:44,995 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:29:36,235 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:29:39,720 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:30:07,160 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:30:08,261 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:30:11,794 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:30:16,259 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:30:20,082 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:32:31,514 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:32:32,892 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:32:58,318 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:33:01,352 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:33:04,606 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:33:08,568 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:33:12,191 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:33:16,082 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 01:37:58,452 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:37:58,653 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:38:24,791 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:38:27,879 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:38:31,528 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:38:35,744 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:38:39,231 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:38:43,860 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 01:40:37,514 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 01:40:39,644 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 01:41:06,826 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 01:41:09,316 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 01:41:12,693 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 01:41:16,329 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 01:41:20,214 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 01:41:25,027 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 15:02:17,784 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 15:02:18,739 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 15:32:36,683 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 15:32:37,719 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:27:06,503 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:28:50,092 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:28:51,422 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:29:17,589 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 16:29:21,188 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 16:29:24,495 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 16:29:28,366 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 16:29:32,266 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 16:29:36,629 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
+2024-06-17 16:39:34,693 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:39:34,902 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:43:58,100 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:43:58,290 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:46:29,536 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:46:30,311 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:51:08,560 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:51:11,251 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:54:32,034 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-17 16:54:33,244 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-17 16:55:04,625 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-17 16:55:05,591 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-17 16:55:09,547 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
+2024-06-17 16:55:13,477 - BasePage.py:[31] - [INFO] - Clicking on a Element deliverAddress_XPATH
+2024-06-17 16:55:17,059 - BasePage.py:[31] - [INFO] - Clicking on a Element continuePayment_XPATH
+2024-06-17 16:55:21,994 - BasePage.py:[31] - [INFO] - Clicking on a Element placeOrder_XPATH
