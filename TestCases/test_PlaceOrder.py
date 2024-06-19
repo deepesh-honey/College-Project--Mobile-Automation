@@ -10,7 +10,7 @@ from TestCases.BaseTest import BaseTest
 class Test_PlaceOrder(BaseTest):
 
     def test_placeOrder(self):
-        #Login Flow:
+        #Login Flow: Marked commented.
         #login = LoginScreen(self.driver)
         #login.LoginUser()
 
