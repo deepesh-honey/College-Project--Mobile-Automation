@@ -1,0 +1,19 @@
+[33mcommit 45c44b3c768ad062ed84d829b57833700e57ad92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: deepesh-honey <deepeshsony2016@gmail.com>
+Date:   Wed Jun 19 22:45:30 2024 +0530
+
+    Added comment in test file
+
+[1mdiff --git a/TestCases/test_PlaceOrder.py b/TestCases/test_PlaceOrder.py[m
+[1mindex 5151d37..5da67a8 100644[m
+[1m--- a/TestCases/test_PlaceOrder.py[m
+[1m+++ b/TestCases/test_PlaceOrder.py[m
+[36m@@ -10,7 +10,7 @@[m [mfrom TestCases.BaseTest import BaseTest[m
+ class Test_PlaceOrder(BaseTest):[m
+ [m
+     def test_placeOrder(self):[m
+[31m-        #Login Flow:[m
+[32m+[m[32m        #Login Flow: Marked commented.[m
+         #login = LoginScreen(self.driver)[m
+         #login.LoginUser()[m
+ [m
