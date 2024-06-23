@@ -9,15 +9,15 @@ class HomePage(BasePage):
     def __init__(self, driver):
         super().__init__(driver)
 
-    def searchItem(self):
+    def searchItem(self, searchItem, productName):
 
         #SearchItem:
         self.wait_click("search_field_ID", 20)
-        self.type("search_bar_ID","Sony Speaker")
+        self.type("search_bar_ID",searchItem)
         self.driver.press_keycode(66)
 
         #ScrollItem:
-        ScrollUtil.scrollToTextByAndroidUiAutomator("Sony SRS-XB100", self.driver)
+        ScrollUtil.scrollToTextByAndroidUiAutomator(productName, self.driver)
         ScrollUtil.scrollToTextByAndroidUiAutomator("Add to Cart", self.driver)
 
         #Navigate to Cart:

@@ -1,0 +1,5 @@
+2024-06-23 13:48:24,169 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-06-23 13:48:26,880 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker
+2024-06-23 13:48:50,030 - BasePage.py:[31] - [INFO] - Clicking on a Element navigateCart_XPATH
+2024-06-23 13:48:53,397 - BasePage.py:[98] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-06-23 13:48:57,366 - BasePage.py:[31] - [INFO] - Clicking on a Element proceedCart_XPATH
