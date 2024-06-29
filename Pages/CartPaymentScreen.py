@@ -4,28 +4,25 @@ from Pages.BasePage import BasePage
 
 class CartToPayment(BasePage):
 
-    def proceedToPayment(self):
+    def proceedToPayment(self,validateCartItem):
 
         #ValidateCart
         item_name = self.getText("validateCart_ANDROID_UIAUTOMATOR")
         print(item_name)
-        validText = "Sony SRS-XB100 Wireless Bluetooth Portable Lightweight Super-Compact Travel Speaker, Extra-Durable IP67 Waterproof & Dustproof, 16 Hrs Batt, Versatile Strap, Extra Bass & Hands-Free Calling-Black"
+        validText = (validateCartItem)
         assert validText in item_name
 
         #SelectDeliveryAddress:
-        self.click("proceedCart_XPATH")
+        self.wait_click("proceedCart_XPATH",20)
         try:
-            time.sleep(3)
-            self.click("deliverAddress_XPATH")
+            self.wait_click("deliverAddress_XPATH",20)
         except:
             pass
 
         #PaymentandPlaceOrder:
         try:
-            time.sleep(3)
-            self.click("continuePayment_XPATH")
+            self.wait_click("continuePayment_XPATH",20)
         except:
             pass
 
-        time.sleep(2)
-        self.click("placeOrder_XPATH")
+        self.wait_click("placeOrder_XPATH",20)

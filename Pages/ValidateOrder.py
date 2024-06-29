@@ -10,3 +10,7 @@ class ThankYouPage(BasePage):
         validText = "Order placed, thank you!"
         assert validText in thankYou_Page
 
+    def navigateToMyorders(self):
+        self.wait_click("myOrders_XPATH", 20)
+
+

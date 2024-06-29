@@ -8,12 +8,12 @@ from Pages.CartPaymentScreen import CartToPayment
 from Pages.ValidateOrder import ThankYouPage
 from TestCases.BaseTest import BaseTest
 from Utilities import dataProvider
-
+from Pages.MyOrderPage import MyOrders
 
 class Test_PlaceOrder(BaseTest):
 
-    @pytest.mark.parametrize("searchItem, productName",dataProvider.get_data("searchData"))
-    def test_placeOrder(self, searchItem, productName):
+    @pytest.mark.parametrize("searchItem, productName, validateCartItem",dataProvider.get_data("searchData"))
+    def test_placeOrder(self, searchItem, productName, validateCartItem):
         #Login Flow: Marked commented.
         #login = LoginScreen(self.driver)
         #login.LoginUser()
@@ -24,11 +24,30 @@ class Test_PlaceOrder(BaseTest):
 
         #Cart & Payment Flow:
         payment = CartToPayment(self.driver)
-        payment.proceedToPayment()
+        payment.proceedToPayment(validateCartItem)
 
         #Thank You Page:
         validateOrder = ThankYouPage(self.driver)
         validateOrder.validateThankYouPage()
+
+
+    @pytest.mark.parametrize("cancelProductName, validateCanceledProductName", dataProvider.get_data("cancelProductData"))
+    def test_cancelOrder(self,cancelProductName, validateCanceledProductName):
+
+        navigateTo_MyOrderPage = ThankYouPage(self.driver)
+        navigateTo_MyOrderPage.navigateToMyorders()
+
+        myorderPage = MyOrders(self.driver)
+        myorderPage.cancelOrder(cancelProductName)
+
+        validateCacelOrder = MyOrders(self.driver)
+        validateCacelOrder.validateCanceledOrder(validateCanceledProductName)
+
+
+
+
+
+
 
 
 

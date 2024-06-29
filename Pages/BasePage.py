@@ -84,15 +84,36 @@ class BasePage:
     def wait_click(self, locator, timeout):
 
         if str(locator).endswith("_XPATH"):
-            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.ID, configReader.readConfig("locators", locator)))).click()
+            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.XPATH, configReader.readConfig("locators", locator)))).click()
 
         elif str(locator).endswith("_ACCESSIBILITY_ID"):
-            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.ID, configReader.readConfig("locators", locator)))).click()
+            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.ACCESSIBILITY_ID, configReader.readConfig("locators", locator)))).click()
 
         elif str(locator).endswith("_ANDROID_UIAUTOMATOR"):
-            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.ID, configReader.readConfig("locators", locator)))).click()
+            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.ANDROID_UIAUTOMATOR, configReader.readConfig("locators", locator)))).click()
 
         elif str(locator).endswith("_ID"):
             WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable((AppiumBy.ID, configReader.readConfig("locators", locator)))).click()
 
         log.logger.info("Clicking on a Element "+ str(locator))
+
+    def clear_field(self, locator, timeout):
+
+        if str(locator).endswith("_XPATH"):
+            WebDriverWait(self.driver, timeout).until(
+                EC.element_to_be_clickable((AppiumBy.XPATH, configReader.readConfig("locators", locator)))).clear()
+
+        elif str(locator).endswith("_ACCESSIBILITY_ID"):
+            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(
+                (AppiumBy.ACCESSIBILITY_ID, configReader.readConfig("locators", locator)))).clear()
+
+        elif str(locator).endswith("_ANDROID_UIAUTOMATOR"):
+            WebDriverWait(self.driver, timeout).until(EC.element_to_be_clickable(
+                (AppiumBy.ANDROID_UIAUTOMATOR, configReader.readConfig("locators", locator)))).clear()
+
+        elif str(locator).endswith("_ID"):
+            WebDriverWait(self.driver, timeout).until(
+                EC.element_to_be_clickable((AppiumBy.ID, configReader.readConfig("locators", locator)))).clear()
+
+        log.logger.info("Clicking on a Element " + str(locator))
+
