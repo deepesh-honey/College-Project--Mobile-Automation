@@ -27,11 +27,11 @@ class LoginScreen(BasePage):
 
         #Credential:
         time.sleep(4)
-        self.type("email_CLASS_NAME","it2024147@mlvti.ac.in")
+        self.type("email_CLASS_NAME","Pate your Username")
         time.sleep(2)
         self.click("continue_btn_CLASS_NAME")
         time.sleep(4)
-        self.type("pass_CLASS_NAME", "Shreeji@88")
+        self.type("pass_CLASS_NAME", "Paste your Password")
         time.sleep(2)
         self.click("continue_btn_CLASS_NAME")
 
