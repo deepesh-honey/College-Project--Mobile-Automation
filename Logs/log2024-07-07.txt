@@ -1,0 +1,2 @@
+2024-07-07 12:55:42,523 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-07-07 12:55:44,597 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Sony Speaker

@@ -1,0 +1,1 @@
+2024-07-05 06:17:33,858 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID

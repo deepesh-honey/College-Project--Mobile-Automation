@@ -103,7 +103,7 @@ def setup_teardown_ParallelDevice(request):
             noReset=True
         )
 
-    global driver
+    global driverx
     capabilities_options = UiAutomator2Options().load_capabilities(desired_capabilities)
     driver = webdriver.Remote('http://127.0.0.1:4723', options= capabilities_options)
     driver.implicitly_wait(10)
