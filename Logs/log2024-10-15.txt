@@ -1,0 +1,143 @@
+2024-10-15 20:31:47,318 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:31:48,074 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:33:57,165 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:33:58,251 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:35:51,446 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:35:54,445 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:36:07,020 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 20:36:09,122 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 20:36:28,646 - BasePage.py:[100] - [INFO] - Clicking on a Element search_ID
+2024-10-15 20:36:29,053 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:36:31,974 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson_XPATH
+2024-10-15 20:42:27,283 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:42:29,943 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:42:41,275 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 20:42:42,667 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 20:46:41,475 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:46:42,798 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:46:55,594 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 20:46:57,864 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 20:47:14,899 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 20:47:15,804 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:47:17,723 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson_XPATH
+2024-10-15 20:47:18,101 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 20:47:20,682 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 20:47:23,804 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 20:47:24,065 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:52:06,399 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:52:09,129 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:52:21,074 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 20:52:22,563 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 20:52:40,120 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 20:52:41,060 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:52:43,095 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 20:52:43,509 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 20:52:47,482 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 20:52:51,306 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 20:52:52,350 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:52:57,364 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 20:54:42,810 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:54:45,637 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:54:58,890 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 20:55:01,047 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 20:55:17,029 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 20:55:19,213 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:55:20,951 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 20:55:21,320 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 20:55:24,994 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 20:55:28,027 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 20:55:28,972 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 20:59:29,170 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 20:59:30,233 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 20:59:44,877 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 20:59:46,223 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:00:03,236 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:00:04,030 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:00:05,638 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:00:06,000 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:00:09,912 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:00:12,965 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:00:13,272 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:00:17,387 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:00:17,965 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:02:33,224 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:02:36,977 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:03:12,000 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:03:14,659 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:03:30,498 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 21:03:31,753 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:03:51,492 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:03:52,529 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:03:54,491 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:03:54,837 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:03:57,993 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:04:02,492 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:04:03,533 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:04:06,786 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:04:08,638 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:09:25,125 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:09:28,213 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:09:41,512 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 21:09:43,266 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:10:02,347 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:10:03,182 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:10:05,054 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:10:05,433 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:10:10,440 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:10:12,345 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:10:16,601 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:10:24,320 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:10:26,231 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:11:37,646 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:11:40,882 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:11:55,725 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 21:11:57,989 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:12:15,131 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:12:16,265 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:12:18,186 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:12:18,598 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:12:22,470 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:12:26,079 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:12:26,385 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:12:30,427 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:12:31,007 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:13:24,185 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:13:27,417 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:13:41,870 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 21:13:44,275 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:14:01,331 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:14:02,133 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:14:03,934 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:14:04,340 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:14:07,075 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:14:10,040 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:14:10,994 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:14:14,844 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:14:15,329 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:15:25,226 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:15:28,126 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:15:42,261 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 21:15:46,257 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:16:03,716 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:16:04,865 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:16:06,882 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:16:07,317 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:16:09,957 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:16:13,018 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:16:14,011 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:16:16,817 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:16:18,333 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:17:04,556 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-10-15 21:17:05,858 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-15 21:17:20,570 - BasePage.py:[100] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-15 21:17:25,348 - BasePage.py:[100] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-15 21:17:41,271 - BasePage.py:[100] - [INFO] - Clicking on a Element search_1_XPATH
+2024-10-15 21:17:44,014 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:17:45,766 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson1_XPATH
+2024-10-15 21:17:46,201 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:17:50,087 - BasePage.py:[100] - [INFO] - Clicking on a Element sendBtn_XPATH
+2024-10-15 21:17:53,586 - BasePage.py:[100] - [INFO] - Clicking on a Element search_2_ID
+2024-10-15 21:17:53,959 - BasePage.py:[67] - [INFO] - Clicking on a Element searchPerson_CLASS_NAMEentered the value as : Deepesh
+2024-10-15 21:17:56,843 - BasePage.py:[100] - [INFO] - Clicking on a Element selectPerson2_XPATH
+2024-10-15 21:17:58,755 - BasePage.py:[100] - [INFO] - Clicking on a Element sharedLink_XPATH
+2024-10-15 21:18:04,543 - BasePage.py:[100] - [INFO] - Clicking on a Element assertProductName_XPATH

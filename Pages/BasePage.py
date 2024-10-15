@@ -1,3 +1,5 @@
+import subprocess
+
 from appium.webdriver.common.appiumby import AppiumBy
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -117,3 +119,20 @@ class BasePage:
 
         log.logger.info("Clicking on a Element " + str(locator))
 
+
+    def switchApp(self, Package, Activity):
+
+        try:
+            messaging_app_package = Package
+            messaging_app_activity = Activity
+
+            # Construct the JavaScript command
+            switch_command = f"adb shell am start -n {messaging_app_package}/{messaging_app_activity}"
+            subprocess.Popen(switch_command, shell=True)
+
+            # Execute the JavaScript command
+            self.driver.execute_script('mobile: shell', {'command': switch_command})
+            return 'App swithched successfuly'
+
+        except:
+            print("Facing Problem to switch App")

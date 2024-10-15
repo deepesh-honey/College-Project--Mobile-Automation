@@ -14,7 +14,7 @@ from Pages.MyOrderPage import MyOrders
 
 class Test_PlaceOrder(BaseTest):
 
-    @pytest.mark.parametrize("searchItem, productName, validateCartItem",dataProvider.get_data("searchData"))
+    @pytest.mark.parametrize("searchItem, productName, validateCartItem",dataProvider.get_data("placeOrderData"))
     def test_placeOrder(self, searchItem, productName, validateCartItem):
 
         #Search Item:

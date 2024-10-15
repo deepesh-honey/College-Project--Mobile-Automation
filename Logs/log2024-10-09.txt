@@ -1,0 +1,20 @@
+2024-10-09 20:23:11,763 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-10-09 20:23:14,747 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Macbook M3 Pro']
+2024-10-09 20:33:53,204 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-10-09 20:33:56,615 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-09 20:55:28,567 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-10-09 20:55:31,624 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-09 20:55:44,298 - BasePage.py:[98] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-09 20:55:46,176 - BasePage.py:[98] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-09 21:23:33,951 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-10-09 21:23:35,014 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-09 21:23:49,572 - BasePage.py:[98] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-09 21:23:51,227 - BasePage.py:[98] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-09 21:26:23,745 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-10-09 21:26:25,070 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-09 21:26:36,557 - BasePage.py:[98] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-09 21:26:38,609 - BasePage.py:[98] - [INFO] - Clicking on a Element moreBtn_XPATH
+2024-10-09 21:29:31,039 - BasePage.py:[98] - [INFO] - Clicking on a Element search_field_ID
+2024-10-09 21:29:32,046 - BasePage.py:[65] - [INFO] - Clicking on a Element search_bar_IDentered the value as : Macbook M3 Pro
+2024-10-09 21:29:47,036 - BasePage.py:[98] - [INFO] - Clicking on a Element shareBtn_XPATH
+2024-10-09 21:29:48,710 - BasePage.py:[98] - [INFO] - Clicking on a Element moreBtn_XPATH
