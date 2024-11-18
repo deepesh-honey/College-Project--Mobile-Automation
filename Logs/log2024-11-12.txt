@@ -1,0 +1,10 @@
+2024-11-12 20:08:53,925 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-12 20:09:02,168 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-12 20:09:02,966 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-12 20:54:24,544 - BasePage.py:[103] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-12 20:55:07,933 - BasePage.py:[103] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-12 20:55:14,017 - BasePage.py:[103] - [INFO] - Clicking on a Element search_field_ID
+2024-11-12 20:55:17,159 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-12 21:00:54,429 - BasePage.py:[103] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-12 21:01:02,114 - BasePage.py:[103] - [INFO] - Clicking on a Element search_field_ID
+2024-11-12 21:01:03,097 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']

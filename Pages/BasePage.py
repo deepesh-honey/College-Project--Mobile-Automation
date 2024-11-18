@@ -80,6 +80,8 @@ class BasePage:
         elif str(locator).endswith("_ID"):
             return self.driver.find_element(AppiumBy.ID, configReader.readConfig("locators", locator)).text
 
+
+
         #log.logger.info("Clicking on a Element "+ str(locator))
 
 

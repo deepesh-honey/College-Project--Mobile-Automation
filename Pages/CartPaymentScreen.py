@@ -26,3 +26,13 @@ class CartToPayment(BasePage):
             pass
 
         self.wait_click("placeOrder_XPATH",20)
+
+
+class EmptyCart(BasePage):
+    def directNavigateToCart(self):
+        self.wait_click("directNavigateCart_ID", 20)
+        time.sleep(5)
+        emptyCartTitle = self.getText('emptyCartTitle_XPATH')
+        actualText = ('Your Amazon Cart is empty')
+        assert emptyCartTitle == actualText
+

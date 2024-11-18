@@ -1,0 +1,3 @@
+2024-11-14 21:11:12,226 - BasePage.py:[102] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-14 21:11:18,301 - BasePage.py:[102] - [INFO] - Clicking on a Element search_field_ID
+2024-11-14 21:11:20,882 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']

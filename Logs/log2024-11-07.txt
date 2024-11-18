@@ -1,0 +1,27 @@
+2024-11-07 20:27:37,300 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:27:39,523 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 20:28:12,284 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:29:32,039 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:29:33,260 - BasePage.py:[100] - [INFO] - Clicking on a Element emptyCartTitle_XPATH
+2024-11-07 20:29:36,791 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 20:31:00,859 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:31:43,814 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:31:51,703 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 20:31:52,743 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-07 20:44:27,713 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:44:34,554 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 20:44:36,700 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-07 20:45:57,568 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:46:26,396 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:46:36,152 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 20:46:37,805 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-07 20:51:37,073 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 20:51:43,048 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 20:51:45,804 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-07 20:51:50,900 - BasePage.py:[100] - [INFO] - Clicking on a Element filters_XPATH
+2024-11-07 21:08:19,808 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 21:08:25,932 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 21:08:28,644 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']
+2024-11-07 21:09:21,532 - BasePage.py:[100] - [INFO] - Clicking on a Element directNavigateCart_ID
+2024-11-07 21:09:29,325 - BasePage.py:[100] - [INFO] - Clicking on a Element search_field_ID
+2024-11-07 21:09:30,387 - BasePage.py:[67] - [INFO] - Clicking on a Element search_bar_IDentered the value as : ['Mi Pad ']

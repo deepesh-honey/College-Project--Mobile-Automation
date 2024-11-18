@@ -7,7 +7,6 @@ from Utilities import configReader
 from Utilities.scroll_util_88 import ScrollUtil
 
 class ProductDetailPage(BasePage):
-
     def __init__(self, driver):
         super().__init__(driver)
 
@@ -36,7 +35,6 @@ class ProductDetailPage(BasePage):
                 option.click()
                 time.sleep(5)
                 break
-
 
         self.wait_click('search_1_XPATH', 10)
         self.type('searchPerson_CLASS_NAME', personNameToShare)
